@@ -19,3 +19,103 @@ INFO 2020-05-02 17:26:19,412 autoreload 598 Watching for file changes with StatR
 INFO 2020-05-02 17:28:25,188 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
 INFO 2020-05-02 17:28:26,740 autoreload 598 Watching for file changes with StatReloader
 INFO 2020-05-02 17:29:23,085 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 17:49:14,077 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:40:21,709 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:40:23,316 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:44:37,830 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:44:39,509 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:45:56,175 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:45:57,862 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:49:34,748 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:49:36,473 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:51:06,670 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:51:08,431 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:51:26,326 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:51:27,966 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:52:16,942 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:52:18,691 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:52:33,724 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:52:35,583 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:53:44,258 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:53:45,950 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:54:38,555 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:54:40,306 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:55:47,708 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:55:49,395 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:56:21,202 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:56:22,887 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:57:55,110 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:57:56,797 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:58:17,434 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:58:19,068 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:58:35,533 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:58:37,124 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:59:14,194 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:59:15,827 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 22:59:51,126 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 22:59:52,749 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:01:14,557 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:01:16,381 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:01:17,076 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:02:00,984 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:02:02,609 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:02:58,781 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:03:00,804 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:03:28,608 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:03:30,289 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:03:37,336 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:03:38,920 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:04:06,956 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:04:08,690 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:04:35,584 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:04:37,247 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:04:55,301 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:04:56,987 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:05:52,389 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:05:54,008 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:06:50,150 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:06:51,657 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:07:14,143 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:07:15,766 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:08:02,730 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:08:04,594 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:18:42,176 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:18:44,009 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:19:13,188 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:19:14,843 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:19:53,581 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:19:55,450 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:20:40,416 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:20:42,268 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:23:20,208 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:23:21,927 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:23:51,129 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:23:52,978 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:24:12,345 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:24:14,116 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:24:40,526 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:24:42,389 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:25:04,784 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:25:06,614 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:26:23,419 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:26:25,445 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:28:33,491 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:28:35,320 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:29:56,454 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:29:58,235 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:30:33,193 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 23:30:34,804 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:31:31,358 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 23:31:33,228 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:33:30,502 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 23:33:32,493 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:44:47,951 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 23:44:49,543 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:47:02,986 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:47:04,522 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:55:37,115 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:55:39,486 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:56:13,665 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\models.py changed, reloading.
+INFO 2020-05-02 23:56:15,290 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 23:57:12,770 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 23:57:14,290 autoreload 598 Watching for file changes with StatReloader

@@ -175,3 +175,6 @@ LOGGING = {
 REST_FRAMEWORK = {
     "EXCEPTION_HANDLER": "BMS.utils.exceptions.exception_handler"
 }
+
+# 自定义的用户模型类
+AUTH_USER_MODEL = 'users.User'
