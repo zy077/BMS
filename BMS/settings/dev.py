@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',  # 添加rest_framework应用
     'users.apps.UsersConfig',
 ]
 
@@ -168,4 +169,9 @@ LOGGING = {
             'level': 'INFO',  # 日志器接收的最低日志级别
         },
     }
+}
+
+# 声明自定义的异常处理
+REST_FRAMEWORK = {
+    "EXCEPTION_HANDLER": "BMS.utils.exceptions.exception_handler"
 }

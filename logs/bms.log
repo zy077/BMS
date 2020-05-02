@@ -6,3 +6,16 @@ WARNING 2020-05-02 17:04:25,611 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 196
 INFO 2020-05-02 17:04:25,632 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
 INFO 2020-05-02 17:04:25,642 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
 INFO 2020-05-02 17:04:25,649 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-05-02 17:23:13,409 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 17:23:14,966 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 17:23:25,442 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 17:23:27,212 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 17:24:39,008 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 17:24:40,539 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 17:25:52,458 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 17:25:54,112 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 17:26:17,973 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 17:26:19,412 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 17:28:25,188 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-02 17:28:26,740 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-02 17:29:23,085 autoreload 598 Watching for file changes with StatReloader
