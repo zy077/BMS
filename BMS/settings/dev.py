@@ -16,6 +16,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 import sys
+
 # sys.path保存了python解释器的导包路径
 # 把apps的路径添加到python的解释器的导包路径
 sys.path.insert(0, os.path.join(BASE_DIR, 'apps'))
@@ -30,7 +31,6 @@ SECRET_KEY = '4p+)1sjoc4+&x56rv_@-sv^h(k+)7hqf^$0j#%_fjq@24)w&#x'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
 
 # Application definition
 
@@ -76,7 +76,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'BMS.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
@@ -90,7 +89,6 @@ DATABASES = {
         'PORT': 3306
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
@@ -110,7 +108,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
 
@@ -124,11 +121,13 @@ USE_L10N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/static/'  # 访问静态文件的url前缀
+STATICFILES_DIRS = [  # 存放静态文件的目录
+    os.path.join(BASE_DIR, 'static_files')
+]
 
 LOGGING = {
     'version': 1,
