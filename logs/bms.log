@@ -1240,3 +1240,38 @@ INFO 2020-05-05 12:05:13,687 basehttp 157 "GET /static/css/bootstrap.min.css HTT
 INFO 2020-05-05 12:05:13,745 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
 INFO 2020-05-05 12:05:13,823 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
 INFO 2020-05-05 12:05:13,831 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 12:19:12,183 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\views.py changed, reloading.
+INFO 2020-05-05 12:19:13,728 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 12:23:18,645 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\urls.py changed, reloading.
+INFO 2020-05-05 12:23:20,202 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 12:28:42,637 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\urls.py changed, reloading.
+INFO 2020-05-05 12:28:44,497 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 12:30:53,934 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-05-05 12:31:03,311 log 228 Not Found: /
+WARNING 2020-05-05 12:31:03,312 basehttp 157 "GET / HTTP/1.1" 404 2299
+INFO 2020-05-05 12:33:01,768 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 12:33:35,606 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 12:33:46,157 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\index\urls.py changed, reloading.
+INFO 2020-05-05 12:33:47,620 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 12:34:11,548 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-05-05 12:34:17,131 log 228 Not Found: /
+WARNING 2020-05-05 12:34:17,132 basehttp 157 "GET / HTTP/1.1" 404 2299
+INFO 2020-05-05 12:34:17,242 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 12:34:17,247 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 15:21:34,168 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-05-05 15:22:04,001 log 228 Not Found: /index
+WARNING 2020-05-05 15:22:04,003 basehttp 157 "GET /index HTTP/1.1" 404 2337
+INFO 2020-05-05 15:23:35,330 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:23:39,324 basehttp 157 "GET /index HTTP/1.1" 301 0
+INFO 2020-05-05 15:23:39,358 basehttp 157 "GET /index/ HTTP/1.1" 200 5456
+INFO 2020-05-05 15:23:39,445 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 304 0
+INFO 2020-05-05 15:23:39,645 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:23:39,648 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 304 0
+INFO 2020-05-05 15:25:01,867 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:25:30,042 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-05-05 15:25:37,020 log 228 Not Found: /
+WARNING 2020-05-05 15:25:37,022 basehttp 157 "GET / HTTP/1.1" 404 2299
+INFO 2020-05-05 15:26:09,146 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:26:14,020 basehttp 157 "GET / HTTP/1.1" 200 5456
+INFO 2020-05-05 15:26:14,133 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:26:14,138 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431

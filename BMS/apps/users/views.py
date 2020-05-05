@@ -13,7 +13,16 @@ class Register(View):
         :param request:包含了请求信息的请求对象
         :return:响应对象
         """
-        return render(request, 'base.html')
+        return render(request, 'register.html.html')
+
+    def post(self, request):
+        pass
+
+class Login(View):
+    """登录"""
+
+    def get(self, request):
+        pass
 
     def post(self, request):
         pass

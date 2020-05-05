@@ -21,5 +21,6 @@ from django.views.generic.base import RedirectView
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^favicon\.ico$', RedirectView.as_view(url=r'static/img/favicon.ico')),  # 配置网站图标
-    path(r'', include('users.urls')),  # 添加用户路由
+    url(r'', include('index.urls')),  # 注册首页应用路由
+    path(r'user/', include('users.urls')),  # 添加用户路由
 ]
