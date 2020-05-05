@@ -1275,3 +1275,603 @@ INFO 2020-05-05 15:26:09,146 autoreload 598 Watching for file changes with StatR
 INFO 2020-05-05 15:26:14,020 basehttp 157 "GET / HTTP/1.1" 200 5456
 INFO 2020-05-05 15:26:14,133 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
 INFO 2020-05-05 15:26:14,138 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 15:32:46,072 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:32:55,353 basehttp 157 "GET / HTTP/1.1" 200 5448
+INFO 2020-05-05 15:32:55,423 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 15:32:55,431 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 15:32:55,437 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 15:32:55,442 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 15:32:55,462 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 15:32:55,482 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 15:32:55,669 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:32:55,674 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 15:32:55,768 basehttp 157 "GET / HTTP/1.1" 200 5448
+INFO 2020-05-05 15:32:55,827 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 15:32:55,831 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 15:32:55,841 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 15:32:55,861 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 15:32:55,885 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 15:32:55,902 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 15:32:56,141 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:32:56,164 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 15:32:57,331 basehttp 157 "GET /user/login HTTP/1.1" 200 5448
+INFO 2020-05-05 15:33:00,080 basehttp 157 "GET /user/register HTTP/1.1" 200 5448
+INFO 2020-05-05 15:34:54,066 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:35:03,061 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:35:14,952 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:35:26,731 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:35:42,673 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\index\urls.py changed, reloading.
+INFO 2020-05-05 15:35:44,299 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:35:55,724 basehttp 157 "GET /index/ HTTP/1.1" 200 5448
+INFO 2020-05-05 15:36:12,942 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-05-05 15:36:17,420 log 228 Not Found: /index/
+WARNING 2020-05-05 15:36:17,422 basehttp 157 "GET /index/ HTTP/1.1" 404 2342
+INFO 2020-05-05 15:36:17,454 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:36:17,469 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 15:36:32,237 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\index\urls.py changed, reloading.
+INFO 2020-05-05 15:36:33,907 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:36:37,260 basehttp 157 "GET /index/ HTTP/1.1" 200 5448
+INFO 2020-05-05 15:36:37,326 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 15:36:37,329 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 15:36:37,333 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 15:36:37,337 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 15:36:37,337 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 15:36:37,369 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 15:36:37,416 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:36:37,421 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 15:36:41,982 basehttp 157 "GET /user/login HTTP/1.1" 301 0
+INFO 2020-05-05 15:36:42,096 basehttp 157 "GET /user/login/ HTTP/1.1" 200 143
+INFO 2020-05-05 15:36:45,757 basehttp 157 "GET /user/register HTTP/1.1" 301 0
+INFO 2020-05-05 15:36:45,766 basehttp 157 "GET /user/register/ HTTP/1.1" 200 143
+INFO 2020-05-05 15:37:11,593 basehttp 157 "GET /index/ HTTP/1.1" 200 5448
+INFO 2020-05-05 15:47:11,118 basehttp 157 "GET /index/ HTTP/1.1" 200 5585
+INFO 2020-05-05 15:47:11,201 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 15:47:11,202 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 15:47:11,202 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 15:47:11,202 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 15:47:11,204 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 15:47:11,255 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+WARNING 2020-05-05 15:47:11,263 log 228 Not Found: /static_files/img/hot_icon.png
+WARNING 2020-05-05 15:47:11,265 basehttp 157 "GET /static_files/img/hot_icon.png HTTP/1.1" 404 2349
+INFO 2020-05-05 15:47:11,336 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:47:11,449 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 15:48:32,311 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 15:48:35,611 basehttp 157 "GET /index/ HTTP/1.1" 200 5670
+INFO 2020-05-05 15:48:35,663 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 15:48:35,666 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 15:48:35,677 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 15:48:35,678 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 15:48:35,681 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 15:48:35,728 basehttp 157 "GET /static/img/hot_icon.png HTTP/1.1" 200 2106
+INFO 2020-05-05 15:48:35,731 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 15:48:35,762 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:48:35,769 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 15:49:10,287 basehttp 157 "GET /index/ HTTP/1.1" 200 5685
+INFO 2020-05-05 15:49:10,354 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 15:49:10,365 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 15:49:10,368 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 15:49:10,369 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 15:49:10,411 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 15:49:10,413 basehttp 157 "GET /static/img/hot_icon.png HTTP/1.1" 200 2106
+INFO 2020-05-05 15:49:10,427 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 15:49:10,520 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 15:49:10,533 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 17:52:24,717 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 17:52:33,727 basehttp 157 "GET /index/ HTTP/1.1" 200 6487
+INFO 2020-05-05 17:52:33,842 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 17:52:33,847 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 17:52:33,850 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 17:52:33,862 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 17:52:33,873 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 17:52:33,893 basehttp 157 "GET /static/layui/layui.js HTTP/1.1" 200 6667
+INFO 2020-05-05 17:52:33,903 basehttp 157 "GET /static/layui/css/layui.css HTTP/1.1" 200 69524
+INFO 2020-05-05 17:52:33,910 basehttp 157 "GET /static/img/hot_icon.png HTTP/1.1" 200 2106
+INFO 2020-05-05 17:52:33,918 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 17:52:34,058 basehttp 157 "GET /static/layui/lay/modules/layer.js HTTP/1.1" 200 22041
+INFO 2020-05-05 17:52:34,084 basehttp 157 "GET /static/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+INFO 2020-05-05 17:52:34,129 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 17:52:34,135 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 17:52:35,633 basehttp 157 "GET /user/register/ HTTP/1.1" 200 143
+INFO 2020-05-05 17:52:35,638 basehttp 157 "GET /static/layui/css/modules/layer/default/loading-1.gif HTTP/1.1" 200 701
+INFO 2020-05-05 17:52:35,679 basehttp 157 "GET /static/layui/css/modules/layer/default/icon.png HTTP/1.1" 200 11493
+INFO 2020-05-05 18:04:31,921 basehttp 157 "GET /index/ HTTP/1.1" 200 6552
+INFO 2020-05-05 18:04:31,979 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 18:04:31,983 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 18:04:31,984 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 18:04:31,990 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 18:04:31,997 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 18:04:32,007 basehttp 157 "GET /static/img/hot_icon.png HTTP/1.1" 200 2106
+INFO 2020-05-05 18:04:32,018 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 18:04:32,078 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 18:04:32,094 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 18:07:19,840 basehttp 157 "GET /index/ HTTP/1.1" 200 7428
+INFO 2020-05-05 18:07:19,899 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 18:07:19,905 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 18:07:19,906 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 18:07:19,934 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 18:07:19,935 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 18:07:19,942 basehttp 157 "GET /static/img/hot_icon.png HTTP/1.1" 200 2106
+INFO 2020-05-05 18:07:19,961 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 18:07:20,016 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 18:07:20,023 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 20:56:57,766 basehttp 157 "GET /index/ HTTP/1.1" 200 7287
+INFO 2020-05-05 20:56:57,827 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 20:56:57,830 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 20:56:57,839 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 20:56:57,840 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 20:56:57,852 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 20:56:57,884 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 20:56:58,088 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 20:56:58,092 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:34:47,368 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 21:34:52,703 basehttp 157 "GET /index/ HTTP/1.1" 200 8328
+INFO 2020-05-05 21:34:52,774 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 21:34:52,775 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 21:34:52,776 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 21:34:52,791 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 21:34:52,859 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 21:34:52,874 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 21:34:53,344 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:34:53,353 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:35:43,461 basehttp 157 "GET /index/ HTTP/1.1" 200 5634
+INFO 2020-05-05 21:35:43,538 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 21:35:43,547 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 21:35:43,547 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 21:35:43,548 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 21:35:43,587 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 21:35:43,598 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 21:35:43,766 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:35:43,771 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:35:59,845 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 21:36:53,322 basehttp 157 "GET /index/ HTTP/1.1" 200 5644
+INFO 2020-05-05 21:36:53,392 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 21:36:53,393 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 21:36:53,398 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 21:36:53,399 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 21:36:53,426 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 21:36:53,577 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 21:36:53,596 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:36:53,601 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:36:54,773 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1862
+INFO 2020-05-05 21:42:05,928 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\index\views.py changed, reloading.
+INFO 2020-05-05 21:42:07,841 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 21:42:10,534 basehttp 157 "GET /index/ HTTP/1.1" 200 5644
+INFO 2020-05-05 21:42:10,601 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 21:42:10,603 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 21:42:10,612 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 21:42:10,624 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 21:42:10,625 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 21:42:10,656 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 21:42:10,706 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:42:10,711 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:42:12,635 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1862
+INFO 2020-05-05 21:48:17,141 basehttp 157 "GET /index/ HTTP/1.1" 200 4694
+INFO 2020-05-05 21:48:17,200 basehttp 157 "GET /static/css/index.css HTTP/1.1" 200 715
+INFO 2020-05-05 21:48:17,215 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 21:48:17,226 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 21:48:17,238 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 21:48:17,242 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 21:48:17,243 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 21:48:17,272 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 21:48:17,323 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:48:17,332 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:50:48,049 basehttp 157 "GET /index/ HTTP/1.1" 200 4694
+INFO 2020-05-05 21:50:48,118 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 21:50:48,119 basehttp 157 "GET /static/css/index.css HTTP/1.1" 200 715
+INFO 2020-05-05 21:50:48,139 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 21:50:48,141 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 21:50:48,148 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 21:50:48,159 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 21:50:48,173 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 21:50:48,317 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:50:48,321 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:50:49,249 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1789
+WARNING 2020-05-05 21:50:49,473 log 228 Not Found: /user/static/js/bootstrap.min.js
+WARNING 2020-05-05 21:50:49,476 log 228 Not Found: /user/static/css/bootstrap.min.css
+WARNING 2020-05-05 21:50:49,479 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:50:49,480 log 228 Not Found: /user/static/js/jquery-3.2.1.min.js
+WARNING 2020-05-05 21:50:49,482 basehttp 157 "GET /user/static/css/bootstrap.min.css HTTP/1.1" 404 2610
+WARNING 2020-05-05 21:50:49,482 basehttp 157 "GET /user/static/js/bootstrap.min.js HTTP/1.1" 404 2604
+WARNING 2020-05-05 21:50:49,483 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+WARNING 2020-05-05 21:50:49,485 basehttp 157 "GET /user/static/js/jquery-3.2.1.min.js HTTP/1.1" 404 2613
+WARNING 2020-05-05 21:50:49,510 log 228 Not Found: /user/static/js/bootstrap.min.js
+WARNING 2020-05-05 21:50:49,511 basehttp 157 "GET /user/static/js/bootstrap.min.js HTTP/1.1" 404 2604
+WARNING 2020-05-05 21:51:02,549 log 228 Not Found: /user/static/css/bootstrap.min.css
+WARNING 2020-05-05 21:51:02,554 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:51:02,555 basehttp 157 "GET /user/static/css/bootstrap.min.css HTTP/1.1" 404 2610
+WARNING 2020-05-05 21:51:02,556 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+INFO 2020-05-05 21:51:47,900 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1879
+WARNING 2020-05-05 21:51:47,985 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:51:47,987 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+INFO 2020-05-05 21:51:48,297 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:51:48,301 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+WARNING 2020-05-05 21:51:51,568 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:51:51,569 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+INFO 2020-05-05 21:52:56,386 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1885
+WARNING 2020-05-05 21:52:56,440 log 228 Not Found: /user/static_files/css/login.css
+WARNING 2020-05-05 21:52:56,441 basehttp 157 "GET /user/static_files/css/login.css HTTP/1.1" 404 2604
+INFO 2020-05-05 21:52:57,048 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:52:57,061 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:54:29,466 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1882
+WARNING 2020-05-05 21:54:29,518 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:54:29,520 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+INFO 2020-05-05 21:54:29,752 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:54:29,764 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+WARNING 2020-05-05 21:54:42,308 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:54:42,308 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+INFO 2020-05-05 21:55:43,465 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-05-05 21:55:47,333 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:55:47,334 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+INFO 2020-05-05 21:55:47,398 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:55:47,403 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 21:55:56,688 basehttp 157 "GET /index/ HTTP/1.1" 200 4694
+INFO 2020-05-05 21:55:56,717 basehttp 157 "GET /static/css/index.css HTTP/1.1" 304 0
+INFO 2020-05-05 21:56:00,396 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1864
+WARNING 2020-05-05 21:56:00,440 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:56:00,442 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+WARNING 2020-05-05 21:56:04,634 log 228 Not Found: /user/static/css/login.css
+WARNING 2020-05-05 21:56:04,635 basehttp 157 "GET /user/static/css/login.css HTTP/1.1" 404 2586
+INFO 2020-05-05 21:59:21,196 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1863
+INFO 2020-05-05 21:59:21,254 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 0
+INFO 2020-05-05 21:59:21,506 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 21:59:21,523 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:01:56,206 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1767
+INFO 2020-05-05 22:01:56,256 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 0
+INFO 2020-05-05 22:01:56,277 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:01:56,278 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:01:56,298 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:01:56,391 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:01:56,397 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:02:00,614 basehttp 157 "GET /static/css/bootstrap.min.css.map HTTP/1.1" 200 542194
+INFO 2020-05-05 22:07:46,841 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1767
+INFO 2020-05-05 22:07:46,893 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 0
+INFO 2020-05-05 22:07:46,911 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:07:46,916 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:07:46,920 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:07:47,115 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:07:47,123 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:07:50,989 basehttp 157 "GET /index/ HTTP/1.1" 200 4694
+INFO 2020-05-05 22:07:51,045 basehttp 157 "GET /static/css/index.css HTTP/1.1" 200 715
+INFO 2020-05-05 22:07:51,057 basehttp 157 "GET /static/img/icon_5.jpg HTTP/1.1" 200 2471
+INFO 2020-05-05 22:07:51,057 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:07:51,061 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:07:51,062 basehttp 157 "GET /static/img/logo.png HTTP/1.1" 200 48274
+INFO 2020-05-05 22:07:51,069 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:07:51,131 basehttp 157 "GET /static/img/jiangxuan_1.jpg HTTP/1.1" 200 44779
+INFO 2020-05-05 22:07:51,194 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:07:51,205 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:07:52,116 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1767
+INFO 2020-05-05 22:09:36,017 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:09:36,073 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 0
+INFO 2020-05-05 22:09:36,092 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:09:36,095 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:09:36,095 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:09:36,208 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:09:36,215 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:17:07,733 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:17:07,783 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 772
+INFO 2020-05-05 22:17:07,790 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:17:07,806 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:17:07,808 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:17:07,874 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 269966
+INFO 2020-05-05 22:17:08,048 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:17:08,056 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:22:56,465 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:22:56,531 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 772
+INFO 2020-05-05 22:22:56,539 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:22:56,558 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:22:56,559 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:22:56,603 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 140309
+INFO 2020-05-05 22:22:56,689 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:22:56,695 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:25:13,007 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:25:13,054 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 772
+INFO 2020-05-05 22:25:13,061 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:25:13,064 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:25:13,069 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:25:13,122 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 140309
+INFO 2020-05-05 22:25:13,208 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:25:13,213 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:26:45,025 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1848
+INFO 2020-05-05 22:26:45,087 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 772
+INFO 2020-05-05 22:26:45,097 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:26:45,113 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:26:45,126 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:26:45,162 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 140309
+INFO 2020-05-05 22:26:45,237 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:26:45,242 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+WARNING 2020-05-05 22:27:13,206 log 228 Not Found: /register/
+WARNING 2020-05-05 22:27:13,207 basehttp 157 "GET /register/ HTTP/1.1" 404 2289
+INFO 2020-05-05 22:32:57,311 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1848
+INFO 2020-05-05 22:32:57,380 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 874
+INFO 2020-05-05 22:32:57,401 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:32:57,419 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:32:57,422 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:32:57,551 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:32:57,560 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:34:38,968 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1848
+INFO 2020-05-05 22:34:39,043 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 838
+INFO 2020-05-05 22:34:39,047 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:34:39,057 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:34:39,071 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:34:39,077 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 27722
+INFO 2020-05-05 22:34:39,234 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:34:39,241 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:37:07,895 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1848
+INFO 2020-05-05 22:37:07,949 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 838
+INFO 2020-05-05 22:37:07,953 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:37:07,970 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:37:07,972 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:37:08,011 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:37:08,223 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:37:08,227 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:37:45,468 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:37:45,527 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 838
+INFO 2020-05-05 22:37:45,532 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:37:45,551 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:37:45,554 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:37:45,611 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:37:45,684 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:37:45,694 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:38:21,564 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:38:21,614 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 856
+INFO 2020-05-05 22:38:21,622 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:38:21,634 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:38:21,638 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:38:21,672 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:38:21,733 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:38:21,739 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:42:57,477 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:42:57,522 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 864
+INFO 2020-05-05 22:42:57,540 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:42:57,541 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:42:57,560 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:42:57,573 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:42:58,727 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:42:58,731 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:43:00,855 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:43:00,911 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 864
+INFO 2020-05-05 22:43:00,924 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:43:00,937 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:43:00,942 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:43:01,009 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:43:01,059 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:43:01,079 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:43:01,962 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:43:02,013 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 864
+INFO 2020-05-05 22:43:02,032 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:43:02,045 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:43:02,053 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:43:02,098 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:43:02,161 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:43:02,165 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:43:02,419 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:43:02,469 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 864
+INFO 2020-05-05 22:43:02,474 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:43:02,490 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:43:02,492 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:43:02,543 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:43:02,626 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:43:02,630 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:43:02,692 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:43:02,745 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 864
+INFO 2020-05-05 22:43:02,750 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:43:02,778 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:43:02,780 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:43:02,832 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:43:02,928 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:43:02,933 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:43:02,950 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:43:03,025 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 864
+INFO 2020-05-05 22:43:03,033 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:43:03,044 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:43:03,051 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:43:03,100 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 24660
+INFO 2020-05-05 22:44:44,360 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:44:44,414 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 864
+INFO 2020-05-05 22:44:44,419 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:44:44,424 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:44:44,437 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:44:44,455 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 11517
+INFO 2020-05-05 22:44:44,574 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:44:44,580 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:45:52,148 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:45:52,211 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 864
+INFO 2020-05-05 22:45:52,220 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:45:52,223 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:45:52,247 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:45:52,301 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 13646
+INFO 2020-05-05 22:45:52,385 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:45:52,389 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:48:18,370 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:48:18,433 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 838
+INFO 2020-05-05 22:48:18,442 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:48:18,445 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:48:18,467 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:48:18,523 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 422798
+INFO 2020-05-05 22:48:18,623 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:48:18,628 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:51:31,041 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:51:31,089 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 838
+INFO 2020-05-05 22:51:31,116 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:51:31,122 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:51:31,126 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:51:31,170 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 200 11379
+INFO 2020-05-05 22:51:31,217 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:51:31,230 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:52:55,486 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:52:55,553 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:52:55,563 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:52:55,578 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:52:55,582 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:52:55,694 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:52:55,709 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:53:21,430 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1785
+INFO 2020-05-05 22:53:21,484 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:53:21,488 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:53:21,493 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:53:21,505 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:53:21,577 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:53:21,587 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:54:01,494 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1789
+INFO 2020-05-05 22:54:01,545 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:54:01,571 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:54:01,584 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:54:01,594 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:54:01,674 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:54:01,683 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:54:55,899 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1811
+INFO 2020-05-05 22:54:55,948 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:54:55,964 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:54:55,966 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:54:55,985 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:54:56,086 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:54:56,090 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:55:11,101 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1811
+INFO 2020-05-05 22:55:11,151 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:55:11,164 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:55:11,167 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:55:11,172 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:55:11,260 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:55:11,269 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:55:29,016 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1811
+INFO 2020-05-05 22:55:29,073 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:55:29,099 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:55:29,102 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:55:29,110 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:55:29,288 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:55:29,292 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:58:03,062 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1790
+INFO 2020-05-05 22:58:03,133 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:58:03,149 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:58:03,152 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:58:03,182 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:58:03,294 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:58:03,303 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:59:30,418 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1789
+INFO 2020-05-05 22:59:30,451 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:59:30,474 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:59:30,483 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:59:30,495 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:59:30,696 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:59:30,702 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:59:44,654 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1790
+INFO 2020-05-05 22:59:44,710 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 878
+INFO 2020-05-05 22:59:44,715 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 22:59:44,726 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 22:59:44,733 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 22:59:44,905 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 22:59:44,911 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 22:59:49,366 basehttp 157 "GET /static/css/bootstrap.min.css.map HTTP/1.1" 200 542194
+INFO 2020-05-05 23:00:59,605 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1790
+INFO 2020-05-05 23:00:59,689 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 918
+INFO 2020-05-05 23:00:59,695 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 23:00:59,701 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 23:00:59,706 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 23:00:59,788 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 23:00:59,791 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 23:01:23,083 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1790
+INFO 2020-05-05 23:01:23,114 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 922
+INFO 2020-05-05 23:01:23,127 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 23:01:23,127 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 23:01:23,140 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 23:01:23,209 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 23:01:23,213 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 23:01:35,168 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1790
+INFO 2020-05-05 23:01:35,205 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 918
+INFO 2020-05-05 23:01:35,295 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 23:01:35,301 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 23:02:06,008 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1790
+INFO 2020-05-05 23:02:06,066 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 941
+INFO 2020-05-05 23:02:06,074 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 23:02:06,089 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 23:02:06,094 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 23:02:06,472 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 23:02:06,477 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+INFO 2020-05-05 23:09:53,827 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\views.py changed, reloading.
+INFO 2020-05-05 23:09:55,565 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 23:09:56,295 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1790
+INFO 2020-05-05 23:09:56,356 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 941
+INFO 2020-05-05 23:09:56,370 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 23:09:56,384 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 23:09:56,396 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 23:09:56,532 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 23:09:56,537 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+WARNING 2020-05-05 23:10:01,939 log 228 Not Found: /login/
+WARNING 2020-05-05 23:10:01,940 basehttp 157 "POST /login/ HTTP/1.1" 404 2281
+INFO 2020-05-05 23:10:55,672 basehttp 157 "GET /index/ HTTP/1.1" 200 4694
+INFO 2020-05-05 23:10:55,715 basehttp 157 "GET /static/css/index.css HTTP/1.1" 304 0
+INFO 2020-05-05 23:10:58,945 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1790
+INFO 2020-05-05 23:10:58,990 basehttp 157 "GET /static/css/login.css HTTP/1.1" 304 0
+WARNING 2020-05-05 23:11:05,635 log 228 Not Found: /login/
+WARNING 2020-05-05 23:11:05,636 basehttp 157 "POST /login/ HTTP/1.1" 404 2281
+INFO 2020-05-05 23:11:51,301 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1795
+INFO 2020-05-05 23:11:51,349 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 941
+INFO 2020-05-05 23:11:51,361 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-05 23:11:51,362 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-05 23:11:51,365 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-05 23:11:51,537 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-05 23:11:51,542 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431
+WARNING 2020-05-05 23:11:57,339 log 228 Forbidden (CSRF token missing or incorrect.): /user/login/
+WARNING 2020-05-05 23:11:57,340 basehttp 157 "POST /user/login/ HTTP/1.1" 403 2508
+INFO 2020-05-05 23:13:48,817 basehttp 157 "GET /index/ HTTP/1.1" 200 4694
+INFO 2020-05-05 23:13:51,114 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1929
+INFO 2020-05-05 23:13:51,147 basehttp 157 "GET /static/css/login.css HTTP/1.1" 304 0
+ERROR 2020-05-05 23:13:56,953 log 228 Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\views.py", line 32, in post
+    return redirect('/index/')
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\shortcuts.py", line 131, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\urls\base.py", line 87, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\urls\resolvers.py", line 617, in _reverse_with_prefix
+    self._populate()
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\urls\resolvers.py", line 472, in _populate
+    url_pattern._populate()
+  File "C:\VirtualEnvs\BMS\lib\site-packages\django\urls\resolvers.py", line 455, in _populate
+    for url_pattern in reversed(self.url_patterns):
+TypeError: 'set' object is not reversible
+ERROR 2020-05-05 23:13:56,957 basehttp 157 "POST /user/login/ HTTP/1.1" 500 108258
+INFO 2020-05-05 23:21:28,846 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\urls.py changed, reloading.
+INFO 2020-05-05 23:21:30,546 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 23:21:35,675 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 23:21:43,805 basehttp 157 "POST /user/login/ HTTP/1.1" 302 0
+INFO 2020-05-05 23:21:43,817 basehttp 157 "GET /index/ HTTP/1.1" 200 4694
+INFO 2020-05-05 23:21:43,842 basehttp 157 "GET /static/css/index.css HTTP/1.1" 304 0
+INFO 2020-05-05 23:24:59,507 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1929
+INFO 2020-05-05 23:24:59,538 basehttp 157 "GET /static/css/login.css HTTP/1.1" 304 0
+INFO 2020-05-05 23:31:15,975 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\views.py changed, reloading.
+INFO 2020-05-05 23:31:17,622 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-05 23:42:53,120 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\apps\users\views.py changed, reloading.
+INFO 2020-05-05 23:42:55,082 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:03:55,329 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:07:01,524 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:07:28,642 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:09:14,698 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:10:09,935 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:13:00,324 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:15:29,717 autoreload 222 C:\Users\Administrator\PycharmProjects\BMS\BMS\settings\dev.py changed, reloading.
+INFO 2020-05-06 00:15:31,330 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:15:43,485 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:18:33,240 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:19:09,355 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-05-06 00:19:16,045 basehttp 157 "GET /user/login/ HTTP/1.1" 200 1929
+INFO 2020-05-06 00:19:16,120 basehttp 157 "GET /static/css/login.css HTTP/1.1" 200 941
+INFO 2020-05-06 00:19:16,137 basehttp 157 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2020-05-06 00:19:16,139 basehttp 157 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2020-05-06 00:19:16,141 basehttp 157 "GET /static/js/jquery-3.2.1.min.js HTTP/1.1" 200 86659
+INFO 2020-05-06 00:19:16,433 basehttp 157 "GET /favicon.ico HTTP/1.1" 302 0
+INFO 2020-05-06 00:19:16,442 basehttp 157 "GET /static/img/favicon.ico HTTP/1.1" 200 2431

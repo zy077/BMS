@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',  # 添加rest_framework应用
+    'index.apps.IndexConfig',
     'users.apps.UsersConfig',
 ]
 

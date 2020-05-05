@@ -5,53 +5,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>图书管理系统</title>
+    <title>BMS-首页</title>
     <!--导入bootstrap框架-->
     <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/css/index.css" rel="stylesheet">
     <script src="../static/js/jquery-3.2.1.min.js"></script>
     <script src="../static/js/bootstrap.min.js"></script>
-    <style>
-        .logo {
-            height: 100px;
-            width: 100px;
-            text-align: center;
-            margin-top: 5px;
-            margin-left: 10px;
-        }
-
-        .search_input {
-            width: 400px;
-            height: 36px;
-            float: left;
-            border: 1px solid #3385ff;;
-            padding-left: 5px;
-        }
-
-        .search_btn {
-            width: 90px;
-            height: 36px;
-            float: left;
-            background-color: #3385ff;
-            text-align: center;
-            line-height: 36px;
-            color: white;
-            border: 1px solid #3385ff;
-        }
-
-        .search {
-            margin-top: 30px;
-        }
-
-        .user_info {
-            text-align: center;
-            margin-top: 30px;
-        }
-
-        .classics {
-            border-bottom: 2px solid #ffc900;
-            padding: 5px;
-        }
-    </style>
 </head>
 <body>
 <!--1、页眉-->
@@ -70,11 +29,15 @@
         </div>
         <div class="col-md-3">
             <div class="user_info">
-                <a href="/user/login">登录</a> /
-                <a href="/user/register">注册</a>
+                <a href="/user/login" data-toggle="modal">登录</a> /
+                <a href="/user/register" data-toggle="modal">注册</a>
             </div>
         </div>
     </div>
+    <!--注册模态框-->
+{#    {% include 'register.html' %}#}
+    <!--登录模态框-->
+{#    {% include 'login.html' %}#}
     <div class="row">
         <!--导航栏-->
         <nav class="navbar navbar-inverse">
@@ -111,6 +74,7 @@
             <img src="../static/img/icon_5.jpg">经典推荐
         </div>
     </div>
+
     <div class="row">
         <div class="col-md-3">
             <div class="thumbnail">
@@ -150,5 +114,6 @@
         </div>
     </div>
 </div>
+
 </body>
 </html>

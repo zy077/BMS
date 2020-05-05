@@ -1,0 +1,45 @@
+.logo {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.search_input {
+    width: 400px;
+    height: 36px;
+    float: left;
+    border: 1px solid #3385ff;;
+    padding-left: 5px;
+}
+
+.search_btn {
+    width: 90px;
+    height: 36px;
+    float: left;
+    background-color: #3385ff;
+    text-align: center;
+    line-height: 36px;
+    color: white;
+    border: 1px solid #3385ff;
+}
+
+.search {
+    margin-top: 30px;
+}
+
+.user_info {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.classics {
+    border-bottom: 2px solid #ffc900;
+    padding: 5px;
+}
+
+.hot {
+    border-bottom: 2px solid #ffc900;
+    padding: 5px;
+}
