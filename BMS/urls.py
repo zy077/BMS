@@ -17,10 +17,11 @@ from django.contrib import admin
 from django.urls import path, include
 from django.conf.urls import url
 from django.views.generic.base import RedirectView
+from index.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^favicon\.ico$', RedirectView.as_view(url=r'static/img/favicon.ico')),  # 配置网站图标
-    url(r'^index/', include('index.urls')),  # 注册首页应用路由
+    path(r'', index),  # 注册首页应用路由
     path(r'user/', include('users.urls')),  # 添加用户路由
 ]

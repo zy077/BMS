@@ -61,8 +61,7 @@ ROOT_URLCONF = 'BMS.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')]
-        ,
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -177,4 +176,4 @@ REST_FRAMEWORK = {
 }
 
 # 自定义的用户模型类
-AUTH_USER_MODEL = 'users.User'
+# AUTH_USER_MODEL = 'users.User'

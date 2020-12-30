@@ -1,7 +1,8 @@
 from django.http import JsonResponse
 from django.shortcuts import render, redirect
-# from users.models import User
+from django.contrib.auth.models import User
 import logging
+from django.http import HttpResponse
 
 # Create your views here.
 from django.views import View
@@ -16,10 +17,15 @@ class Register(View):
         :param request:包含了请求信息的请求对象
         :return:响应对象
         """
-        return render(request, 'register.html')
+        return render(request, 'users/register.html')
 
     def post(self, request):
-        pass
+        post_param = request.POST
+        username = post_param.get('username')
+        email = post_param.get('email')
+        password = post_param.get("password")
+        User.objects.create_user(username=username, email=email, password=password)
+        return HttpResponse("注册成功！")
 
 
 class Login(View):
@@ -36,13 +42,13 @@ class Login(View):
         # if not username or not password:
         #     return render(request, 'login.html', {"message": "参数不全"})
         # try:
-        #     user = User.objects.get(username=username)
+        #     users = User.objects.get(username=username)
         # except Exception as e:
         #     logging.error(e)
         #     return render(request, 'login.html', {"message": "用户名错误"})
-        # if not user:
+        # if not users:
         #     return render(request, 'login.html', {"message": "该用户不存在"})
-        # if not user.check_password(password):
+        # if not users.check_password(password):
         #     return render(request, 'login.html', {"message": "密码错误"})
         # # 3、逻辑处理
         # # 4、返回响应

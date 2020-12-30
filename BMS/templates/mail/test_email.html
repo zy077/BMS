@@ -1,0 +1,59 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="zh-CN">
+<!--指定为中文-中国-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>邮件测试</title>
+    <!--导入bootstrap框架-->
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/index.css' %}" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <h3>条纹表格布局</h3>
+        <div class="col-md-10">
+            <a href="javascript:void(0);" onclick="show_table()">显示</a>
+            <table class="table table-striped" id="mailTest" hidden>
+                <thead>
+                <tr>
+                    <th>名称</th>
+                    <th>城市</th>
+                    <th>邮编</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Tanmay</td>
+                    <td>Bangalore</td>
+                    <td>560001</td>
+                </tr>
+                <tr>
+                    <td>Sachin</td>
+                    <td>Mumbai</td>
+                    <td>400003</td>
+                </tr>
+                <tr>
+                    <td>Uma</td>
+                    <td>Pune</td>
+                    <td>411027</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script src="{% static 'js/jquery-3.2.1.min.js' %}"></script>
+<script src="{% static 'js/bootstrap.min.js' %}"></script>
+<script>
+    function show_table(){
+        $("#mailTest").show();
+        console.log("显示表格！")
+    }
+</script>
+</body>
+</html>
+

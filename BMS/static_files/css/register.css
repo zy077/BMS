@@ -1,22 +1,21 @@
 body {
     height: 100%;
     background-image: url('../img/backgroud.jpg');
-    background-color: #F0F0F0;
 }
 
-.form-login {
+.form-register {
     width: 100%;
     max-width: 330px;
     padding: 15px;
     margin: 0 auto;
 }
 
-.form-login {
+.form-register {
     margin-top: 80px;
     font-weight: 400;
 }
 
-.form-login .form-control {
+.form-register .form-control {
     position: relative;
     box-sizing: border-box;
     height: auto;
@@ -25,17 +24,17 @@ body {
 
 }
 
-.form-login .form-control:focus {
+.form-register .form-control:focus {
     z-index: 2;
 }
 
-.form-login input[type="text"] {
+.form-register input[type="text"] {
     margin-bottom: -1px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
 }
 
-.form-login input[type="password"] {
+.form-register input[type="password"] {
     margin-bottom: 10px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;

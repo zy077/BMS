@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>邮件测试</title>
+</head>
+<body>
+<div>
+    <a href="javascript:void(0);" onclick="show_table()">显示</a>
+</div>
+<div id="mailTest" style="display: none">
+    <table border="1" cellspacing="0" cellpadding="5">
+        <caption>边框表格布局</caption>
+        <thead style="background-color: #1E9FFF">
+        <tr>
+            <th>名称</th>
+            <th>城市</th>
+            <th>邮编</th>
+        </tr>
+        </thead>
+        <tbody style="background-color: #00FFFF">
+        <tr>
+            <td>Tanmay</td>
+            <td>Bangalore</td>
+            <td>560001</td>
+        </tr>
+        <tr>
+            <td>Sachin</td>
+            <td>Mumbai</td>
+            <td>400003</td>
+        </tr>
+        <tr>
+            <td>Uma</td>
+            <td>Pune</td>
+            <td>411027</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+<script>
+    function show_table(){
+        document.getElementById("mailTest").setAttribute("style", "display:black;")
+        console.log("显示表格！")
+    }
+</script>
+</body>
+</html>

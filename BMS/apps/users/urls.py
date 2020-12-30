@@ -1,6 +1,6 @@
 from django.conf.urls import url
 
-from . import views
+from users import views
 
 # urlpatterns是django自动识别的路由列表变量
 urlpatterns = [
