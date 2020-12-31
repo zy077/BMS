@@ -921,3 +921,13 @@ INFO 2020-12-30 23:25:32,269 basehttp 157 "GET /user/register/ HTTP/1.1" 200 216
 INFO 2020-12-30 23:25:32,318 basehttp 157 "GET /static/css/register.css HTTP/1.1" 304 0
 INFO 2020-12-30 23:25:32,374 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 304 0
 INFO 2020-12-30 23:25:39,307 basehttp 157 "POST /user/register/ HTTP/1.1" 200 15
+INFO 2020-12-30 23:29:27,792 basehttp 157 "GET /user/register/ HTTP/1.1" 200 2167
+INFO 2020-12-30 23:29:27,827 basehttp 157 "GET /static/css/register.css HTTP/1.1" 304 0
+INFO 2020-12-30 23:29:27,881 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 304 0
+INFO 2020-12-31 21:46:52,601 basehttp 157 "GET /user/register/ HTTP/1.1" 200 2167
+INFO 2020-12-31 21:46:52,648 basehttp 157 "GET /static/css/register.css HTTP/1.1" 200 943
+INFO 2020-12-31 21:46:52,693 basehttp 157 "GET /static/img/backgroud.jpg HTTP/1.1" 304 0
+INFO 2020-12-31 21:50:11,513 basehttp 157 "GET /user/register/ HTTP/1.1" 200 2188
+INFO 2020-12-31 21:50:11,577 basehttp 157 "GET /static/css/register.css HTTP/1.1" 304 0
+INFO 2020-12-31 21:50:49,617 basehttp 157 "GET /user/register/ HTTP/1.1" 200 2251
+INFO 2020-12-31 21:50:49,666 basehttp 157 "GET /static/css/register.css HTTP/1.1" 304 0

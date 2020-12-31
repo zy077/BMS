@@ -20,26 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66376406-cf5c-42d6-b1f0-23872d49baec" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BMS/static_files/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BMS/static_files/img/backgroud.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BMS/static_files/js/duty_table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BMS/templates/mail/test2_mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BMS/templates/mail/test_email.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BMS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/apps/index/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/apps/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/apps/users/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/apps/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/apps/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/apps/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/settings/dev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/static_files/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/static_files/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/templates/users/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/templates/users/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMS/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/~$S开发与维护手册.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/bms.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/bms.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMS/static_files/css/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/BMS/static_files/css/register.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
