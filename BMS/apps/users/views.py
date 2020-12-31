@@ -3,10 +3,13 @@ from django.shortcuts import render, redirect
 from django.contrib.auth.models import User
 import logging
 from django.http import HttpResponse
+from django.db.models import Q
+import re
 
 # Create your views here.
 from django.views import View
 
+logger = logging.getLogger('django')
 
 class Register(View):
     """注册"""
@@ -20,10 +23,30 @@ class Register(View):
         return render(request, 'users/register.html')
 
     def post(self, request):
+        """
+        注册保存数据
+        :param request:
+        :return:
+        """
+        # 获取数据
         post_param = request.POST
         username = post_param.get('username')
         email = post_param.get('email')
         password = post_param.get("password")
+        # 检验参数
+        try:
+            user = User.objects.filter(Q(username=username) | Q(email=email))
+        except Exception as e:
+            logging.info("查询用户失败：{}".format(e))
+        if user.exists():
+            return render(request, 'users/register.html', {"message": "该用户名或邮箱已存在！"})
+
+        if not re.match(r'^[0-9a-zA-Z_]{0,19}@[0-9a-zA-Z]{1,13}\.[com,cn,net]{1,3}$',email):
+            return render(request, 'users/register.html', {"message": "邮箱规则错误！"})
+
+        if len(password) < 8:
+            return render(request, 'users/register.html', {"message": "请输入大于8位的密码！"})
+
         User.objects.create_user(username=username, email=email, password=password)
         return HttpResponse("注册成功！")
 

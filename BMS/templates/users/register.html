@@ -15,7 +15,7 @@
     <div class="col">
         <form class="form-register" action="/user/register/" method="post">
             {% if message %}
-                <div class="alert alert-warning">{{ message }}</div>
+            <div class="alert alert-warning">{{ message }}</div>
             {% endif %}
             {% csrf_token %}
             <h3 class="text-center" style="color: white">欢迎注册</h3>
@@ -25,7 +25,7 @@
                        autofocus required>
             </div>
             <div class="form-group">
-                <label for="email"style="color: white" >邮箱：</label>
+                <label for="email" style="color: white">邮箱：</label>
                 <input type="text" name='email' class="form-control" id="email" placeholder="Email"
                        autofocus required>
             </div>
@@ -45,7 +45,7 @@
 </div> <!-- /container -->
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-{#    以下三者的引用顺序是固定的#}
+{# 以下三者的引用顺序是固定的#}
 <script src="{% static 'js/jquery-3.2.1.min.js' %}"></script>
 <script src="https://cdn.bootcss.com/popper.js/1.15.0/umd/popper.js"></script>
 <script src="{% static 'js/bootstrap.min.js' %}"></script>
